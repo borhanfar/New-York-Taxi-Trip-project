@@ -14,6 +14,7 @@ Columns=21 , Rows=8,319,928
 
 
 # what is the best K?
+![](K.PNG)
 
 # Before and after clustering (K=6)
 
