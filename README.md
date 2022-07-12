@@ -1,6 +1,6 @@
 # Project Title
 # How Can I Make A Million Dollars?
-Market Research Based On New York Taxi Trip Dtaset By KMeans Algorithm
+Market Research Based On New York Taxi Trip Dataset By KMeans Algorithm
 # Dataset Link
 
 Columns=21 , Rows=8,319,928 
