@@ -10,7 +10,7 @@ Columns=21 , Rows=8,319,928
 2) Develop my own application
 3) Make a Million Dollars by targeting people
 # Optimise K
-![](Optimise K.png)
+![](Optimise K.PNG)
 
 
 # what is the best K?
