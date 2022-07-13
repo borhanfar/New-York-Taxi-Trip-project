@@ -20,6 +20,8 @@ However, K=18 is not practical. Because, It is very difficult to explain the beh
 # what is the best K?
 ![](K.png)
 
+K=6
+
 # Dataset before clustering 
 ![](Before.png)
 # Dataset after clustering (K=6)
