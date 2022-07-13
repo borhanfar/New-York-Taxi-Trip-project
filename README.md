@@ -33,7 +33,9 @@ Columns=21 , Rows=8,319,928
 
 They do not like Public Transportation.
 They do not even bother get the Uber.
+
 They are wealthy.
+
 Cluster 2 = 21.70% of whole dataset = 1,805,424
 
 # Business Plan
