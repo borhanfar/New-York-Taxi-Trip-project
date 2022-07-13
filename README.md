@@ -4,6 +4,8 @@ Market Research Based On New York Taxi Trip Dataset By KMeans Algorithm
 # Dataset Link
 ![](Dataset.jpg)
 
+https://www.kaggle.com/datasets/neilclack/nyc-taxi-trip-data-google-public-data
+
 Columns=21 , Rows=8,319,928 
 # Business Strategy
 1) Discover opportunity in the market
