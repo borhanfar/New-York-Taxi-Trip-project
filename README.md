@@ -39,8 +39,11 @@ K=6
 ![](After.png)
 
 
+They are going all across the city by taxi.
 They do not like Public Transportation.
 They do not even bother get the Uber.
+
+
 
 They are wealthy.
 
