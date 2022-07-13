@@ -17,6 +17,7 @@ Columns=21 , Rows=8,319,928
 ![](K.png)
 
 # Dataset before clustering 
+![](Before.png)
 # Dataset after clustering (K=6)
 
 # Portion of each cluster
