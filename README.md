@@ -46,8 +46,11 @@ Cluster 2 = 21.70% of whole dataset = 1,805,424
 
 # Profit
 If I can send only 200,000 customres from cluster number 2 to luxury brands and get 5$ for each customer.
-profit=200,000 X $5 = 1,000,000 $
+
+profit=200,000 X 5$ = 1,000,000$
+
 And
+
 I have 200,000 email from rich people in New York for marketing.
 
 
