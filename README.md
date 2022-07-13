@@ -25,6 +25,7 @@ Columns=21 , Rows=8,319,928
 ![](Portion.png)
 
 # Understanding the clusters
+![](Clusters.png)
 
 # Cluster number 2
 They do not like Public Transportation.
