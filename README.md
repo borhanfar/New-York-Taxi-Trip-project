@@ -22,6 +22,7 @@ Columns=21 , Rows=8,319,928
 ![](After.png)
 
 # Portion of each cluster
+![](Portion.png)
 
 # Understanding the clusters
 
