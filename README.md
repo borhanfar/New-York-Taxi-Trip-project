@@ -16,9 +16,10 @@ Columns=21 , Rows=8,319,928
 # what is the best K?
 ![](K.png)
 
-# Before and after clustering (K=6)
+# Dataset before clustering 
+# Dataset after clustering (K=6)
 
-# Value and portion of each cluster
+# Portion of each cluster
 
 # Understanding the clusters
 
