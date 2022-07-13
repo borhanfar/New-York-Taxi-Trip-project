@@ -28,6 +28,7 @@ Columns=21 , Rows=8,319,928
 ![](Clusters.png)
 
 # Cluster number 2
+![](After.png)
 They do not like Public Transportation.
 They do not even bother get the Uber.
 They are wealthy.
