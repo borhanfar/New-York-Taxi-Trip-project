@@ -16,7 +16,7 @@ Columns=21 , Rows=8,319,928
 
 Looking for the highest sil score and the lowest std. Therefore, K=18.
 
-However, K=18 is not practical. Because, It is very difficult to explain the behaviour of 18 groups of people.
+However, K=18 is not practical. Because, It is very difficult to explain the behaviour of 18 groups.
 
 
 # what is the best K?
