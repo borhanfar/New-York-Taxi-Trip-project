@@ -12,7 +12,7 @@ Columns=21 , Rows=8,319,928
 2) Develop my own application
 3) Make a Million Dollars by targeting people
 # Optimise K
-https://github.com/borhanfar/Taxi-databricks-notebook
+https://github.com/borhanfar/Taxi-databricks-notebook/blob/main/Cleaned_taxi-%20DBFS%20Example.ipynb
 ![](optimise.png)
 
 Looking for the highest sil score and the lowest std. Therefore, K=18.
