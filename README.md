@@ -53,7 +53,7 @@ Cluster 2 = 21.70% of whole dataset = 1,805,424
 # Business Plan
 1) Find those taxi which is working in those area.
 2) Install my company tablets in those taxi( give them commission ).
-3) Because the people who are belongs to cluster nymber 2, are rich and have enough time in the taxi. I can offer discount voucher for luxury brands through our tablet.
+3) Because the people who are belongs to cluster number 2, are rich and have enough time in the taxi. I can offer discount voucher for luxury brands through our tablet.
 4) linked them to luxury brands and gain my commission 
 
 # Profit
